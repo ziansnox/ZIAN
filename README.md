@@ -90,7 +90,7 @@
     <a href="third.html">Specialty</a>
 </nav>
     <div class="d1">
-    <img src="C:\ALLhttp\img\LOGO-2.jpg"/>
+    <img src="PIC/LOGO-2.jpg"/>
     </div>
     <div class="d2">
     <h1 style="color:black;">Welcme to ZianSnox Website</h1>
